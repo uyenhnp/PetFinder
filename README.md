@@ -32,7 +32,7 @@ python train.py --model aam --backbone swin_base_patch4_window12_384 --train_ful
 ```
 
 #### Use the model
-Please download the checkpoint via this [link](https://drive.google.com/file/d/1qXwO5J-sKHB8Xtz8OR6TmnLiJDHXTGs3/view?usp=sharing), then put the file into the folder `checkpoints` and run the following code:  
+Please download the checkpoint via this [link](https://drive.google.com/file/d/1qXwO5J-sKHB8Xtz8OR6TmnLiJDHXTGs3/view?usp=sharing), then put the file `aam.pt` into the folder `checkpoints` and run the following code:  
 
 ```sh
 import torch
