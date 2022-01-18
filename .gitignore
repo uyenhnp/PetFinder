@@ -1,5 +1,5 @@
 petfinder_pawpularity_data/test/
 petfinder_pawpularity_data/train/*.jpg
 __pycache__/
-checkpoints/
+checkpoints/aam.pt
 draft.ipynb
