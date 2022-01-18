@@ -5,7 +5,7 @@ Petfinder is a contest hosted by [PetFinder.my](https://www.petfinder.my) on [Ka
 
 The purpose of this competition is to analyze raw images and photo metadata to predict the “Pawpularity” of pet photos. The Pawpularity Score is calculated from the number of view statistics of each pet's profile at the listing pages. Through the predicted score of each pet photo, PetFinder.my can instruct rescuers how to improve the photo quality, which helps increasing the opportunities for a pet to be adopted faster. 
 
-![Example](https://github.com/uyenhnp/hateful_memes_challenge/blob/master/demo/theme.jpg)
+![Example](https://github.com/uyenhnp/PetFinder/blob/master/theme.png)
 
 ### 2. Data
 The official web page for the dataset: [link](https://www.kaggle.com/c/petfinder-pawpularity-score/data).
